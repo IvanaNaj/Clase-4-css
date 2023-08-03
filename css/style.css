@@ -1,0 +1,64 @@
+*{
+    margin: 0; border: 0; padding: ;0
+
+}
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ margin: 2%;
+    
+}
+
+.logo{
+    margin: 3% 50%;
+    width: 5rem;
+    box-shadow: 2px 2px 4px 1px;
+    border-style: solid;
+    border-radius: 50%;
+
+    
+}
+li{
+    margin: 5%;
+}
+h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 3%;
+ 
+}
+table{
+    border: black;
+}
+.tablaCentrado{
+    text-align: center;
+    margin: 5%;
+    font-size: large;
+    
+}
+
+.diasNegrita{
+    font-weight: 600;
+    font-size: larger;
+}
+.horasCursiva{
+    font-style: italic;
+}
+.lunesAzul{
+color: #4f0cec;
+}
+.martesVerde{
+color: #16d456;
+}
+.miercolesAmarillo{
+color: #f8fc1f;
+}
+.juevesNaranja{
+color: #fc9c1f;
+}
+.viernesVioleta{
+color: rgb(190, 23, 212);
+}
+.cursivas{
+    font-style: italic;
+}
